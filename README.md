@@ -37,3 +37,4 @@ This building a REST API Client project in Java using VS Code and JSON provides 
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/e3c658cb-ffc6-4bc9-b55f-ad629433ee82)
